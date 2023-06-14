@@ -1,6 +1,4 @@
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
 
 public class kLargestElement {
     public static int largestK(int[] nums,int k){
