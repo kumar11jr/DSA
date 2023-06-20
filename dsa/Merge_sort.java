@@ -1,5 +1,7 @@
+import javax.naming.StringRefAddr;
+
 public class Merge_sort {
-    public static void Sort(int[] arr,int low,int mid,int high){
+    public static int[] Sort(int[] arr,int low,int mid,int high){
         int[] merged = new int[high-low+1];
         int idx1 = low;
         int idx2 = mid+1;
@@ -21,20 +23,27 @@ public class Merge_sort {
         for (int i = 0,j = low; i < merged.length; i++,j++) {
             arr[j] = merged[i];
         }
+        return arr;
     }
-    public static void divide(int arr[],int low,int high){
+    public static int[] divide(int arr[],int low,int high){
         if (low>=high) {
-            return;
+            return arr;
         }
         int mid = low + (high - low)/2;
         divide(arr, low, mid);
         divide(arr, mid+1, high);
-        Sort(arr,low,mid,high);
+        arr=Sort(arr,low,mid,high);
+        return arr;
+    }
+    public static int[] sortArray(int[] nums){
+        nums = divide(nums, 0, nums.length-1);
+        return nums;
     }
     public static void main(String[] args) {
         int[] arr = {4,2,6,1,5};
-        int n = arr.length-1;
-        divide(arr,0,n);
+        // int n = arr.length-1;
+        arr=sortArray(arr);
+        
         for (int i : arr) {
             System.out.println(i);
         }
