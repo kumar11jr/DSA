@@ -3,8 +3,8 @@ public class DeleteColToMakeSorted {
         if (str.length == 0) return -1;
         int deleted = 0;
         int digits = str[0].length();
-        for (int i = 0; i < str.length; i++) {
-            for (int j = 1; j < digits; j++) {
+        for (int i = 0; i < digits; i++){
+            for (int j = 1; j < str.length; j++){
                 if(str[j].charAt(i) < str[j-1].charAt(i)){
                     deleted++;
                     break;
