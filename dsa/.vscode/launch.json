@@ -1,0 +1,378 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SumOfSeries",
+            "request": "launch",
+            "mainClass": "SumOfSeries",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Base7",
+            "request": "launch",
+            "mainClass": "Base7",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "ContainsDuplicate",
+            "request": "launch",
+            "mainClass": "ContainsDuplicate",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "Count_of_Smaller_Numbers_After_Self",
+            "request": "launch",
+            "mainClass": "Count_of_Smaller_Numbers_After_Self",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "DeleteColToMakeSorted",
+            "request": "launch",
+            "mainClass": "DeleteColToMakeSorted",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "Divide_Two_Integers",
+            "request": "launch",
+            "mainClass": "Divide_Two_Integers",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "Find_the_Index_of_the_First_Occurrence_in_a_String",
+            "request": "launch",
+            "mainClass": "Find_the_Index_of_the_First_Occurrence_in_a_String",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "HashMapp",
+            "request": "launch",
+            "mainClass": "HashMapp",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "K_smallest_prime_fraction",
+            "request": "launch",
+            "mainClass": "K_smallest_prime_fraction",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "Max_consecutive_ones",
+            "request": "launch",
+            "mainClass": "Max_consecutive_ones",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "Merge_sort",
+            "request": "launch",
+            "mainClass": "Merge_sort",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "NQueenProblem",
+            "request": "launch",
+            "mainClass": "NQueenProblem",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "PeakElement",
+            "request": "launch",
+            "mainClass": "PeakElement",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "PeakIndexInMountain",
+            "request": "launch",
+            "mainClass": "PeakIndexInMountain",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "Quick_sort",
+            "request": "launch",
+            "mainClass": "Quick_sort",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "RBS",
+            "request": "launch",
+            "mainClass": "RBS",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "RotationCount",
+            "request": "launch",
+            "mainClass": "RotationCount",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "RunningSum1DArray",
+            "request": "launch",
+            "mainClass": "RunningSum1DArray",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "SearchRange",
+            "request": "launch",
+            "mainClass": "SearchRange",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "TemmoAttacking",
+            "request": "launch",
+            "mainClass": "TemmoAttacking",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "TicTacToe",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "WildCard_Matching",
+            "request": "launch",
+            "mainClass": "WildCard_Matching",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "basic_cal_II",
+            "request": "launch",
+            "mainClass": "basic_cal_II",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "beauty_of_array",
+            "request": "launch",
+            "mainClass": "beauty_of_array",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "buy_and_sell",
+            "request": "launch",
+            "mainClass": "buy_and_sell",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "color_sort",
+            "request": "launch",
+            "mainClass": "color_sort",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "evenOddArray",
+            "request": "launch",
+            "mainClass": "evenOddArray",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "firstUniqueCharInString",
+            "request": "launch",
+            "mainClass": "firstUniqueCharInString",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "interval_between_identical_elements",
+            "request": "launch",
+            "mainClass": "interval_between_identical_elements",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "kLargestElement",
+            "request": "launch",
+            "mainClass": "kLargestElement",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "longest_substring",
+            "request": "launch",
+            "mainClass": "longest_substring",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "mapUsingHash",
+            "request": "launch",
+            "mainClass": "mapUsingHash",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "masking_info",
+            "request": "launch",
+            "mainClass": "masking_info",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "median_of_two_array",
+            "request": "launch",
+            "mainClass": "median_of_two_array",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "merge_sorted_LinkedList",
+            "request": "launch",
+            "mainClass": "merge_sorted_LinkedList",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "multiply_string",
+            "request": "launch",
+            "mainClass": "multiply_string",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "parenthesis_no",
+            "request": "launch",
+            "mainClass": "parenthesis_no",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "plusOne",
+            "request": "launch",
+            "mainClass": "plusOne",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "positionInInfiniteArray",
+            "request": "launch",
+            "mainClass": "positionInInfiniteArray",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "pow",
+            "request": "launch",
+            "mainClass": "pow",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "queue_using_stack",
+            "request": "launch",
+            "mainClass": "queue_using_stack",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "ransomnotes",
+            "request": "launch",
+            "mainClass": "ransomnotes",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "removeElement",
+            "request": "launch",
+            "mainClass": "removeElement",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "rotate_array",
+            "request": "launch",
+            "mainClass": "rotate_array",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "set_matrix_zero",
+            "request": "launch",
+            "mainClass": "set_matrix_zero",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "smallestLetter",
+            "request": "launch",
+            "mainClass": "smallestLetter",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "spiral_matrix",
+            "request": "launch",
+            "mainClass": "spiral_matrix",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "sqrt",
+            "request": "launch",
+            "mainClass": "sqrt",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "stack_using_queue",
+            "request": "launch",
+            "mainClass": "stack_using_queue",
+            "projectName": "dsa_f65ced3"
+        },
+        {
+            "type": "java",
+            "name": "transpose",
+            "request": "launch",
+            "mainClass": "transpose",
+            "projectName": "dsa_f65ced3"
+        }
+    ]
+}
